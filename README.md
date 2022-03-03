@@ -1,2 +1,2 @@
 # jingda
-react+gastby
+react+gatsby
